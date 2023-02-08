@@ -1,6 +1,8 @@
 """
 Runtime 775 ms      Beats 61.6%
 Memory 28.4 MB      Beats 69.11%
+
+Feb 09, 2023 03:09
 """
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
